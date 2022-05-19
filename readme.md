@@ -4,7 +4,7 @@ Bartender is a node.js express API service.
 
 ## Installation
 
-Use node package manager to install the repo:
+Use git clone and then node package manager to install the dependencies:
 
 ```bash
 git clone https://github.com/bastianspirek/bartender.git
